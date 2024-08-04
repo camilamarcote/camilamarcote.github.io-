@@ -20,6 +20,11 @@
     color:  rgb(228, 22, 125);
     text-decoration: none;
     }
+
+    
+  .navegacion ul li a:hover{
+      background-color: #e6e2e2;
+    }
   
   h1 {
     font-size: 3em; 
@@ -48,7 +53,7 @@
     display: block;
   }
   
-  .skill {
+  .skill, .redes {
     text-align: left;
     margin-bottom: 20px;
     padding: 10px;
@@ -59,17 +64,43 @@
     font-size: 14px;
   }
   
-  .redes {
-    text-align: left;
-    margin-bottom: 20px;
-    padding: 10px;
-  }
-  
-  footer.Final{
+  .Final{
     color: aliceblue;
     text-align: center;
     margin-bottom: 20px;
     padding: 10px;
     background-color: rgb(228, 22, 125);
   }
+
+  #consultas {
+    margin-top: 2em;
+  } 
+
+  .form-group {
+  display: flex;
+  flex-direction: column;
+  margin-right: 70%;
+  }
+  input, textarea {
+    padding: 0.5em;
+    margin-top: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  button {
+    margin-top: 1em;
+    padding: 0.5em;
+    background-color: rgb(228, 22, 125);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #555;
+  }
+
+
   
