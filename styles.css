@@ -1,0 +1,75 @@
+#sobre-mi {
+    text-align:justify;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: large;
+    align-items: center; 
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+  
+  #foto-camila {
+  border-radius: 20%;
+  width: 200px;
+  margin-top: 0%;
+  }
+  
+  .navegacion ul li a{
+    color:  rgb(228, 22, 125);
+    text-decoration: none;
+    }
+  
+  h1 {
+    font-size: 3em; 
+    font-style: italic; 
+    color: rgb(228, 22, 125);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+    text-align: center; 
+    margin-bottom: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+  
+  h4, footer {
+    font-size: large;
+  }
+  
+  body {
+    background-color: rgb(209, 149, 221);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white; 
+  }
+  
+  
+  img.logos {
+    width: 100px;
+    height: auto;
+    display: block;
+  }
+  
+  .skill {
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .skill h6 {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .redes {
+    text-align: left;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  footer.Final{
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgb(228, 22, 125);
+  }
+  
