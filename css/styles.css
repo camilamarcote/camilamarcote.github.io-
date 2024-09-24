@@ -5,13 +5,14 @@
 }
 
 body {
-  background-color: rgb(209, 149, 221);
+  background: linear-gradient(0deg, rgb(202, 29, 194) 0%, rgb(30, 144, 236) 100%); 
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: white;
 }
 
 h1 {
   font-size: 2.5rem; /* Convertido de 3em a rem */
+  font-weight: bold;
   font-style: italic;
   color: rgb(228, 22, 125);
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
